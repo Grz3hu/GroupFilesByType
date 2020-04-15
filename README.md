@@ -1,5 +1,5 @@
 Dependecies: Python3.6, watchdog library 
-(watchdog can be installed with pip install wathdog)
+(watchdog can be installed with pip install watchdog)
 
 Usage: python3.6 dircreator.py PATHTOWATCH
 
